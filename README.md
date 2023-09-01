@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Biplab Sarkar
 - 👀 I’m interested in coding
-- 🌱 I’m currently studying in B.E. in Electronics and  Instrumentation  Engineering in Jadavpur University.
+- 🌱 I’m pursuing my Bachelor of Engineering  from Jadavpur University in Electronics and  Instrumentation  Engineering.
 
 <!---
 51BiplabSarkar/51BiplabSarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
