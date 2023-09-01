@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Biplab Sarkar
-- 👀 I’m interested in coding
+- 👋 Hello, I’m Biplab Sarkar
 - 🌱 I’m pursuing my Bachelor of Engineering  from Jadavpur University in Electronics and  Instrumentation  Engineering.
 
 <!---
